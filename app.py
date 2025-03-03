@@ -1,5 +1,5 @@
 import os
-from flask import Flask,redirect
+from flask import Flask, redirect
 from multiprocessing import Value
 from prometheus_flask_exporter import PrometheusMetrics
 import random
