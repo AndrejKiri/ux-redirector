@@ -3,3 +3,5 @@ Gunicorn
 prometheus-flask-exporter
 opentelemetry-distro
 opentelemetry-exporter-otlp
+opentelemetry-sdk
+opentelemetry-instrumentation-flask
